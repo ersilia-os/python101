@@ -13,7 +13,7 @@ To use it, we need first to install Anaconda --> <https://www.anaconda.com/produ
 
 # Before the course starts
 Please download and install Anaconda in the computer you will use during the course:
-1. Choose the right installation package for your system (Windows, Linux or macOS) and processor (64 or 34 bit). Most computers nowadays run on a 64-bit processor, but if you are unsure, type System Information on the computer search bar and check the System Type (x64 or x34).
+1. Choose the right installation package for your system (Windows, Linux or macOS) and processor (64 or 32 bit). Most computers nowadays run on a 64-bit processor, but if you are unsure, type System Information on the computer search bar and check the System Type (x64 or x32).
 2. Open the executable file and follow the set up wizard.
 3. Accept the License Agreement (Anaconda is a free, open source package)
 4. Install just for your user (if its a shared computer) or all users if its your personal computer
