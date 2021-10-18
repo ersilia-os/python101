@@ -1,5 +1,5 @@
 # Python packages
-To understand packages, we can think of them as software. Each package is a software developed for specific functions, for example the pandas package enables users to deal with table-like data (such as excel files), and the matplotlib package is focused on graphs. In reality, a package is simply a collection of modules that contain executable files and functions.
+To understand packages, we can think of them as mini programs. Each package is a program developed for specific functions, for example the pandas package enables users to deal with table-like data (such as excel files), and the matplotlib package is focused on graphs. In reality, a package is simply a collection of modules that contain executable files and functions.
 To use a package, we need to:
 1. Install it in our computer.
 2. Import it on the script/notebook we are working. 
