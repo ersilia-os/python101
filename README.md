@@ -1,5 +1,5 @@
 # python101
-Materials for the Python Introductory Course developed by Ersilia Open Source Initiative
+Materials for the Python Introductory Course developed by the [Ersilia Open Source Initiative](https://ersilia.io)
 
 ## Goal
 To give an overview of the fundamentals of the Python programming language and encourage students to explore the possibilities of applying basic computational pipelines in their daily work.
@@ -19,5 +19,11 @@ Plotting data quickly and nicely is probably one of the most useful tools for ev
 In this session we will review the basic concepts of Machine Learning and how some pre-built Python packages can help us get started in the field.
 
 *Disclaimer: this course is simply an introduction to basic Python functionalities to familiarize students with the technology, not a comprehensive data science training.*
+
+
+# About us
+The [Ersilia Open Source Initiative](https://ersilia.io) is a Non Profit Organization incorporated with the Charity Commission for England and Wales (number 1192266). Our mission is to reduce the imbalance in biomedical research productivity between countries by supporting research in underfunded settings.
+
+You can support us via our [Open Collective](https:/opencollective.com/ersilia).
 
 
