@@ -8,7 +8,7 @@ Python is one of the most used languages in data science because of its simplici
 ## Requirements
 This course is directed to scientists with an interest in starting to optimize some daily tasks in data analysis and visualization using Python. No previous experience in Python and/or other programming languages is required.
 ## Course Outline
-The course will be divided into four sessions of two hours. Each session will comprise a guided explanation of the concepts using applied examples and a hands-on exercise. In addition, we will provide a list of additional resources to practise and gain deeper knowledge of the topics discussed in the course.
+The course will be divided into four sessions of three hours. Each session will comprise a guided explanation of the concepts using applied examples and a hands-on exercise. In addition, we will provide a list of additional resources to practise and gain deeper knowledge of the topics discussed in the course.
 ### Session 1: Setting up the environment and understanding Python syntax
 In this session, we will learn how to prepare our computers to work with Python, creating a specific environment using the Anaconda interface. In addition, we will review the fundamentals of writing in Python. As with any other language, there are a number of rules that must be learnt.
 ### Session 2: Working with tables
